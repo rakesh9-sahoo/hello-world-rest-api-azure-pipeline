@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'hello-world-rest-api-azure-pipeline'
 
   # Web app name
-  webAppName: 'first-azure-app1-testing'
+  webAppName: 'hello-world-2'
 
   # Environment name
-  environmentName: 'first-azure-app1-testing'
+  environmentName: 'hello-world-2'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
